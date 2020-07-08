@@ -12,6 +12,7 @@ export const Header = () => {
       <Link to='/home'><FaHome size={TEXTSIZE}/></Link>
       <Link to='/participantes'><MdCropLandscape size={TEXTSIZE} /></Link>
       <Link to='/resultados'></Link>
+      
     </Nav>
   )
 }

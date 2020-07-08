@@ -16,6 +16,7 @@ export const Nav = styled.nav`
   width: 100%;
   max-width: 1200px;
   z-index: 1;
+  
 `
 
 export const Link = styled(LinkRouter)`
